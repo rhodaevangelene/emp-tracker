@@ -1,0 +1,35 @@
+# Employee Tracker
+## Application Description
+Application to demonstrate node command line application using inquirer package to manage employee, role and department informatio in MySQL DB.
+
+
+## Table of Contents
+- [Description](#description)
+- [User Story](#user-story)
+- [Installation and Usage](#installation-and-usage)
+- [License](#license)
+
+Live demo:
+[LIVE DEMO](https://youtu.be/1uWoo6PR5xQ)
+
+## User Story
+
+```
+AS A manager I want to be able to look over my team.
+I WANT TO be able to add positions and update my employees role,
+SO THAT I can organize my company in a more proficient way.
+
+```
+
+## Installation and Usage
+
+In order to run this application for your use these will be required in the terminal:
+
+To install pre-requisite libraries
+- `npm i`
+
+To run:
+- `node index.js`
+
+## License
+ISC
